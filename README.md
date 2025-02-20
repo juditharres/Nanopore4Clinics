@@ -2,7 +2,7 @@
 
 ## Overview
 
-This pipeline is a modification of the ONT variant calling pipeline and has been adapted for the study: Assessing the readiness of Oxford Nanopore sequencing for clinical genomics applications. It automates the process of variant calling and structural variant detection from Oxford Nanopore Technologies (ONT) sequencing data. It performs read alignment, quality control, small variant calling (Clair3), structural variant calling (Sniffles), copy number variation (CNV) detection, and short tandem repeat (STR) genotyping.
+This pipeline is a modification of the Oxford Nanopore Technologies (ONT) variant calling pipeline and has been adapted for the study: Assessing the readiness of Oxford Nanopore sequencing for clinical genomics applications. It automates the process of ONT variant calling and structural variant detection from  sequencing data. It performs read alignment, quality control, small variant calling (Clair3), structural variant calling (Sniffles), copy number variation (CNV) detection, and short tandem repeat (STR) genotyping.
 
 ## Features
 
