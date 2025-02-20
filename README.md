@@ -28,7 +28,7 @@ This pipeline requires the following software installed:
 - [**Clair3**](https://github.com/HKU-BAL/Clair3)
 - [**Spectre**](https://github.com/fritzsedlazeck/Spectre)
 - [**goleft**](https://github.com/brentp/goleft)
-- [**Straglr**](https://github.com/abishpi/straglr)
+- [**Straglr**](https://github.com/bcgsc/straglr)
 
 
 ## Installation
