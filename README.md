@@ -53,8 +53,8 @@ Run the pipeline with the following command:
 | `-o OUT_DIR` | Output directory for results |
 | `-t THREADS` | Number of CPU threads to use |
 | `-r REFERENCE` | Path to the reference genome (FASTA) |
-| `-m CLAIR3_MODEL` | Path to Clair3 model |
-| `-b BED_FILE` | BED file with STR regions |
+| `-m CLAIR3_MODEL` | Clair3 model |
+| `-b BED_FILE` | BED file with regions |
 
 Example:
 ```bash
@@ -77,8 +77,5 @@ The pipeline generates the following key output files:
 - **Permission denied?** Run `chmod +x bin/ont_vc_pipeline.sh` before executing the script.
 - **Missing dependencies?** Ensure all tools are installed
 - **No BAM files found?** Verify that `IN_DIR` contains BAM files.
-
-## License
-This pipeline is distributed under the MIT License. See `LICENSE` for details.
 
 ---
